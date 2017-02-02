@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.idea
+npm-debug.log
+dist
+errorShots
+tests_result.json
+errorShots
+phantomjsdriver.log
+coverage
